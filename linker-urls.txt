@@ -1,4 +1,1 @@
-https://eg.netmagcdn.com:2228/hls-playback/8a2b2823b527e52a4308d9ea5a2eb1af344bb5cddf7ff6149eef285245a088a94fb099815fe80a8c40b2b7ffc86120e860fd4abac3f0ff20f2a3dc9ea752a6cc529cd27dc5784bf2a53389fb23beda29c16dfa7b4be77b91dbc56dcd14840907234664e59e117eaf0e601984b96a82d25b136da12e958ad96da155a96c66700566fa58ae81b440334c3394972f6455de/index-f1-v1-a1.m3u8
-https://lak.added7295.workers.dev/0:/Season%20of%20Love%20(2024)/Season.of.Love.2024.[FreeDriveMovie.com]720p.HEVC.WEB-DL.DUAL.AAC5.1.x265.ESub.mkv
-https://op.doxecaw924.workers.dev/0:/Retro%20(2025)/Retro.2025.[FreeDriveMovie.com]720p.HDCam.Hindi.2.0.HC-ESub.x264.mkv
 test
